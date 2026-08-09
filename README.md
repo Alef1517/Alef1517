@@ -15,36 +15,36 @@
 
 ---
 
-### 🧭 Sobre mim
+###  Sobre mim
 
 Venho de uma trajetória técnica em **Automação Industrial** e **Edificações**, e hoje estou migrando para a área de **Dados**, cursando Banco de Dados na Cruzeiro do Sul. Gosto de entender como as coisas funcionam por baixo dos panos — seja um processo industrial, uma estrutura, ou um pipeline de dados — e trago esse olhar analítico para os projetos que construo.
 
 Atualmente busco minha primeira oportunidade como **estagiário/analista júnior de dados**, com foco em SQL, automação de processos e, mais recentemente, aplicação prática de IA generativa.
 
-### 🚀 Projetos em destaque
+###   Projetos em destaque
 
-**🏥 [Ana — Automação de Clínica via WhatsApp](https://github.com/Alef1517/clinica-whatsapp-automation)**
+**  [Ana — Automação de Clínica via WhatsApp](https://github.com/Alef1517/clinica-whatsapp-automation)**
 Assistente virtual completa para agendamento de consultas via WhatsApp, com verificação de disponibilidade real, banco de dados relacional e máquina de estados para conversas multi-etapa.
 `n8n` `Evolution API` `PostgreSQL` `Docker`
 
-**🛒 [Agente Text-to-SQL — Dados Olist](https://github.com/Alef1517/agente-sql-olist)**
+**  [Agente Text-to-SQL — Dados Olist](https://github.com/Alef1517/agente-sql-olist)**
 Agente de IA que responde perguntas em linguagem natural sobre um banco de dados real de e-commerce, usando function calling, com segurança em múltiplas camadas e interface web.
 `Python` `Google Gemini` `SQLite` `Streamlit`
 
-**⛽ [ETL — Preços de Combustíveis (ANP)](https://github.com/Alef1517/etl-precos-combustiveis)**
+**  [ETL — Preços de Combustíveis (ANP)](https://github.com/Alef1517/etl-precos-combustiveis)**
 Pipeline de limpeza e tratamento de dados públicos reais, com diagnóstico de qualidade, padronização de formatos e extração de insights de negócio.
 `Python` `Pandas` `Matplotlib`
 
-**📊 Dashboard Executivo — Vendas Olist**
+**  Dashboard Executivo — Vendas Olist**
 Análise de vendas de e-commerce com modelagem em Star Schema, DAX avançado e ETL em Python.
 `Power BI` `DAX` `Python`
 [🔗 Ver no Power BI Service](https://app.powerbi.com/links/lElt3jd35q?ctid=4b4dc4f3-cb2c-4b0b-8a7c-0f345959edaa&pbi_source=linkShare)
 
-### 🛠️ Tecnologias e ferramentas
+###   Tecnologias e ferramentas
 
 `Python` · `SQL (PostgreSQL, SQLite)` · `Pandas` · `Power BI / DAX` · `n8n` · `Docker` · `Git & GitHub` · `APIs de IA (function calling)`
 
-### 📫 Vamos conversar
+###   Vamos conversar
 
 - [LinkedIn](https://www.linkedin.com/in/alef-sousa-46a109377)
 
