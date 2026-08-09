@@ -1,82 +1,22 @@
-# Olá! 👋 Eu sou Alef Soares
+<h1 align="center">Olá, eu sou o Alef 👋</h1>
 
-🎯 **Data Analyst | Business Intelligence | Automação**
+<p align="center">
+  Estudante de Ciência e Tecnologia de Banco de Dados, em transição para a área de Dados e Automação.
+</p>
 
-Atualmente estou cursando **CST em Banco de Dados**, com foco no desenvolvimento de habilidades práticas em análise de dados, Business Intelligence, SQL, Python e automação de processos.
-
-Tenho interesse em transformar dados em informações úteis para apoiar decisões de negócio, criando soluções que combinem **análise, visualização e automação**.
-
-## 🛠️ Tecnologias e ferramentas
-
-* **Power BI** — Dashboards, indicadores, análise de dados e visualizações
-* **SQL** — Consultas, JOINs, agregações e análise de dados
-* **Python** — Análise de dados e automação
-* **PostgreSQL** — Banco de dados e consultas SQL
-* **Power Query** — ETL e transformação de dados
-* **DAX** — Medidas e indicadores no Power BI
-* **n8n** — Automação de processos e integrações
-* **Git & GitHub** — Versionamento e organização de projetos
-
-## 📊 Projetos em destaque
-
-### 📈 Dashboard Executivo Olist — Power BI
-
-Dashboard desenvolvido utilizando a base pública do **Olist E-commerce**, com foco em análise comercial e logística.
-
-Principais análises:
-
-* Receita e faturamento
-* Evolução das vendas
-* Ticket médio
-* Clientes e pedidos
-* Categorias com maior receita
-* Estados com maior participação
-* Status dos pedidos
-* Indicadores logísticos
-* Insights e recomendações de negócio
-
-**Tecnologias:** Power BI, Power Query, DAX, Python e SQL.
-
-### 🤖 Automação de Clínica — n8n + WhatsApp
-
-Projeto de automação para gerenciamento de agendamentos, utilizando integração entre WhatsApp, n8n, Evolution API e PostgreSQL.
-
-O projeto busca automatizar processos de atendimento e organização de consultas, reduzindo tarefas manuais.
-
-**Tecnologias:** n8n, PostgreSQL, Evolution API e automação.
-
-### 🤖 Agente de IA para consultas SQL
-
-Projeto de agente de IA capaz de interpretar perguntas em linguagem natural e transformá-las em consultas SQL para análise de dados de e-commerce.
-
-**Tecnologias:** Python, SQL e Inteligência Artificial.
-
-## 🎓 Formação
-
-**CST em Banco de Dados**
-Em andamento
-
-## 📚 Atualmente estudando
-
-* Análise de Dados
-* Business Intelligence
-* SQL e modelagem de dados
-* Python para dados
-* Power BI
-* ETL e Power Query
-* Automação de processos
-* Inteligência Artificial aplicada a dados
-
-## 🚀 Objetivo profissional
-
-Busco oportunidades como **Analista de Dados, BI ou áreas relacionadas**, onde possa aplicar meus conhecimentos em dados, desenvolver soluções de análise e continuar evoluindo profissionalmente.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Contato
+### 🧭 Sobre mim
 
-**LinkedIn:** [Alef Soares](https://www.linkedin.com/in/alef-sousa-46a109377/)
+Venho de uma trajetória técnica em **Automação Industrial** e **Edificações**, e hoje estou migrando para a área de **Dados**, cursando Banco de Dados na Cruzeiro do Sul. Gosto de entender como as coisas funcionam por baixo dos panos — seja um processo industrial, uma estrutura, ou um pipeline de dados — e trago esse olhar analítico para os projetos que construo.
 
-Aberto a oportunidades, projetos freelance e conexões profissionais na área de Dados, BI e Automação.
-
--->
+Atualmente busco minha primeira oportunidade como **estagiário/analista júnior de dados**,
