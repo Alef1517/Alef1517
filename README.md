@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Alef 👋</h1>
 
 <p align="center">
-  Estudante de Ciência e Tecnologia de Banco de Dados, em transição para a área de Dados e Automação.
+  Estudante de Curso Superior de Tecnologia em Banco de Dados, em transição para a área de Dados e Automação.
 </p>
 
 <p align="center">
